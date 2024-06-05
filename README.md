@@ -11,7 +11,7 @@ Despite the limited sample size, our findings revealed new insights into microbi
 
 If you want to use this implementation or cite any of our findings in your publication, please cite the following paper (currently under review):
 ```
-Katharina Dost, Steffen Albrecht, Paul Maclean, Sandeep Gupta, and Jörg Wicker.
+Katharina Dost, Steffen Albrecht, Paul Maclean, Jörg Wicker, and Sandeep K Gupta.
 "Understanding Rumen Methanogen Interactions in Sheep."
 In: Forthcoming, 2024.
 ```
@@ -19,7 +19,7 @@ In: Forthcoming, 2024.
 Bibtex:
 ```
 @INPROCEEDINGS {dost2024understanding,
-author = {Katharina Dost and Steffen Albrecht and Paul Maclean and Sandeep Gupta and J\"org Wicker},
+author = {Katharina Dost and Steffen Albrecht and Paul Maclean and J\"org Wicker and Sandeep K Gupta},
 title = {Understanding Rumen Methanogen Interactions in Sheep},
 year = {2024},
 booktitle = {Forthcoming}
