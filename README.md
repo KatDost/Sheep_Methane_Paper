@@ -36,3 +36,7 @@ We have organized this repository similar to the paper with individual Jupyter n
 - [Identifying Candidates for Mitigating Measures](https://github.com/KatDost/Sheep_Methane_Paper/blob/main/4_Identifying%20Candidates%20for%20Mitigating%20Measures.ipynb)
 - [Dataset: Contig Counts](https://github.com/KatDost/Sheep_Methane_Paper/blob/main/Data/CPMs_filtered_integers.txt)
 - [Dataset: Methane Output](https://github.com/KatDost/Sheep_Methane_Paper/blob/main/Data/Sheep_data.xlsx)
+
+  # Funding
+
+  This research has been funded by the Ministry of Business, Innovation \& Employment, New Zealand (MBIE number C10X2201) awarded to SKG. KD and JW have received research funding from AgResearch. 
