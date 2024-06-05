@@ -34,3 +34,5 @@ We have organized this repository similar to the paper with individual Jupyter n
 - [Narrowing Down the Search](https://github.com/KatDost/Sheep_Methane_Paper/blob/main/2_Narrowing%20Down%20the%20Search.ipynb)
 - [Understanding Patterns](https://github.com/KatDost/Sheep_Methane_Paper/blob/main/3_Understanding%20Patterns.ipynb)
 - [Identifying Candidates for Mitigating Measures](https://github.com/KatDost/Sheep_Methane_Paper/blob/main/4_Identifying%20Candidates%20for%20Mitigating%20Measures.ipynb)
+- [Dataset: Contig Counts](https://github.com/KatDost/Sheep_Methane_Paper/blob/main/Data/CPMs_filtered_integers.txt)
+- [Dataset: Methane Output](https://github.com/KatDost/Sheep_Methane_Paper/blob/main/Data/Sheep_data.xlsx)
