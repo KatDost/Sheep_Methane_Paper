@@ -30,7 +30,7 @@ booktitle = {Forthcoming}
 
 We have organized this repository similar to the paper with individual Jupyter notebooks for each subsection in our Analysis section:
 - [Data Preprocessing](data_preprocessing.py)
-- [Hypothesis and Data Validation](1_Hypothesis and Data Validaton.ipynb)
-- [Narrowing Down The Search](2_Narrowing Down the Search.ipynb)
-- [Understanding Patterns](3_Understanding Patterns.ipynb)
-- [Identifying Candidates for Mitigating Measures](4_Identifying Candidates for Mitigating Measures.ipynb)
+- [Hypothesis and Data Validaton](https://github.com/KatDost/Sheep_Methane_Paper/blob/main/1_Hypothesis%20and%20Data%20Validaton.ipynb)
+- [Narrowing Down the Search](https://github.com/KatDost/Sheep_Methane_Paper/blob/main/2_Narrowing%20Down%20the%20Search.ipynb)
+- [Understanding Patterns](https://github.com/KatDost/Sheep_Methane_Paper/blob/main/3_Understanding%20Patterns.ipynb)
+- [Identifying Candidates for Mitigating Measures](https://github.com/KatDost/Sheep_Methane_Paper/blob/main/4_Identifying%20Candidates%20for%20Mitigating%20Measures.ipynb)
