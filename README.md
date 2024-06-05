@@ -9,7 +9,7 @@ Despite the limited sample size, our findings revealed new insights into microbi
 
 # Citation
 
-If you want to use this implementation or cite any of our findings in your publication, please cite the following ICDM paper (currently under review):
+If you want to use this implementation or cite any of our findings in your publication, please cite the following paper (currently under review):
 ```
 Katharina Dost, Steffen Albrecht, Paul Maclean, Sandeep Gupta, and Jörg Wicker.
 "Understanding Rumen Methanogen Interactions in Sheep."
