@@ -6,7 +6,7 @@ df_cpm = pd.read_csv('Data/CPMs_filtered_integers.txt', sep='\t', index_col=0)
 df_cpm = df_cpm.T
 
 # Prepare sheep data for June 13
-df13 = pd.read_excel('Data/HiLow sheep CH4 data 13&28 June 2011_for Ioannis_final.xlsx', sheet_name=0)
+df13 = pd.read_excel('Data/Sheep_data.xlsx', sheet_name=0)
 df13 = df13.ffill()
 grouped = df13[df13.columns[[3, 4, 8, 11]]].groupby(by=['Sheep#', 'Metatranscriptome ID']).agg([np.average, 'std'])
 grouped.columns = [f'{col[0]}_{col[1]}' for col in grouped.columns]
